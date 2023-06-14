@@ -1,2 +1,2 @@
 #!/bin/bash
-exec chmod u+x {} +
+exec chmod u+x {}
